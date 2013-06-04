@@ -1,0 +1,20 @@
+name,dscr
+pd,public domain
+ic,in-copyright
+op,out-of-print (implies in-copyright)
+orph,copyright-orphaned (implies in-copyright)
+und,undetermined copyright status
+umall,available to UM affiliates and walk-in patrons (all campuses)
+ic-world,in-copyright and permitted as world viewable by the copyright holder
+nobody,available to nobody; blocked for all users
+pdus,public domain only when viewed in the US
+cc-by,Creative Commons Attribution license
+cc-by-nd,Creative Commons Attribution-NoDerivatives license
+cc-by-nc-nd,Creative Commons Attribution-NonCommercial-NoDerivatives license
+cc-by-nc,Creative Commons Attribution-NonCommercial license
+cc-by-nc-sa,Creative Commons Attribution-NonCommercial-ShareAlike license
+cc-by-sa,Creative Commons Attribution-ShareAlike license
+orphcand,orphan candidate - in 90-day holding period (implies in-copyright)
+cc-zero,Creative Commons Zero license (implies pd)
+und-world,undetermined copyright status and permitted as world viewable by the depositor
+icus,in copyright in the US
